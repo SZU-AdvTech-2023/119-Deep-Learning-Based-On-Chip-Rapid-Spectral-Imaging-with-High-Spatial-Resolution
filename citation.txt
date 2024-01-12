@@ -1,0 +1,10 @@
+@article{REPO119,
+    author = "Yang, Jiawei and Cui, Kaiyu and Huang, Yidong and Zhang, Wei and Feng, Xue and Liu, Fang",
+    journal = "Chip",
+    number = "2",
+    pages = "100045",
+    publisher = "Elsevier",
+    title = "{Deep-Learning Based On-Chip Rapid Spectral Imaging with High Spatial Resolution}",
+    volume = "2",
+    year = "2023"
+}
