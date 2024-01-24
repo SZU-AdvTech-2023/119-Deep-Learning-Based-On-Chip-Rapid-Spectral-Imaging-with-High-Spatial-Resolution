@@ -1,0 +1,16 @@
+{
+  "name": "condata",
+  "version": "1.0.0",
+  "train": {
+    "batch_size": 2048,
+    "learning_rate": 0.001,
+    "epoch": 300,
+    "in_channel": 26,
+    "out_channel": 26,
+    "degree": 9,
+    "img_width": 512,
+    "SNR": 90,
+    "alpha": 0
+
+  }
+}
